@@ -1,0 +1,18 @@
+{
+  "name": "tas-mongolian-quiz",
+  "version": "1.0.0",
+  "description": "Мэдээлэл технологийн сорил - Mongolian IT quiz test app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
