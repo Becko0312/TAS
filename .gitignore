@@ -3,4 +3,5 @@ data/users.json
 data/results.json
 *.log
 *.apk
+!releases/*.apk
 .DS_Store
